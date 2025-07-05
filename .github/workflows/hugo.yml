@@ -53,8 +53,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
-            --verbose
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Debug - Check build output
         run: |
           echo "Public directory contents:"
