@@ -1,4 +1,5 @@
 baseurl = "https://xumengy.github.io/hugo-news/"
+relativeURLs = true
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "Hugo Theme Dream"
