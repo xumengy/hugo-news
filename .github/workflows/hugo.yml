@@ -35,6 +35,16 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+      - name: Debug - List files
+        run: |
+          echo "Current directory:"
+          pwd
+          echo "Files in current directory:"
+          ls -la
+          echo "Content directory:"
+          ls -la content/
+          echo "Static directory:"
+          ls -la static/
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -43,7 +53,14 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "${{ steps.pages.outputs.base_url }}/" \
+            --verbose
+      - name: Debug - Check build output
+        run: |
+          echo "Public directory contents:"
+          ls -la public/
+          echo "Public images directory:"
+          ls -la public/images/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
