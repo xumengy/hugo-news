@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://xumengy.github.io/hugo-news/</loc>
     <lastmod>2025-06-27T14:55:34+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/2025-06-27/</loc>
+    <loc>https://xumengy.github.io/hugo-news/posts/2025-06-27/</loc>
     <lastmod>2025-06-27T14:35:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://xumengy.github.io/hugo-news/categories/</loc>
     <lastmod>2025-06-27T14:35:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/category1/</loc>
+    <loc>https://xumengy.github.io/hugo-news/categories/category1/</loc>
     <lastmod>2025-06-27T14:35:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://xumengy.github.io/hugo-news/posts/</loc>
     <lastmod>2025-06-27T14:35:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/tag1/</loc>
+    <loc>https://xumengy.github.io/hugo-news/tags/tag1/</loc>
     <lastmod>2025-06-27T14:35:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/tag2/</loc>
+    <loc>https://xumengy.github.io/hugo-news/tags/tag2/</loc>
     <lastmod>2025-06-27T14:35:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://xumengy.github.io/hugo-news/tags/</loc>
     <lastmod>2025-06-27T14:35:11+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://xumengy.github.io/hugo-news/posts/%E4%BD%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-06-27T14:33:36+08:00</lastmod>
   </url>
 </urlset>

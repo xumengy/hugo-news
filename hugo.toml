@@ -1,4 +1,4 @@
-baseurl = "https://example.com"
+baseurl = "https://xumengy.github.io/hugo-news/"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "Hugo Theme Dream"
