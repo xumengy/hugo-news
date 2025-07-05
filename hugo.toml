@@ -42,7 +42,7 @@ headerTitle = "Hugo Theme Dream"
 
 siteStartYear = 2016
 
-favicon = "/images/favicon.ico"
+favicon = "/images/avatar.jpeg"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
