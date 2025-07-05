@@ -21,7 +21,7 @@ darkTheme = "forest"
 
 author = "Dream"
 # description = ""
-avatar = "/images/avatar.jpeg"
+avatar = "images/avatar.jpeg"
 headerTitle = "Hugo Theme Dream"
 # motto = ""
 
