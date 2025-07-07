@@ -1,7 +1,7 @@
 baseurl = "https://xumengy.github.io/hugo-news/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "Hugo Theme Dream"
+title = "CAIKAN"
 theme = "dream"
 
 # [services]
@@ -22,7 +22,7 @@ darkTheme = "forest"
 author = "Dream"
 # description = ""
 avatar = "images/avatar.jpeg"
-headerTitle = "Hugo Theme Dream"
+headerTitle = "CAIKAN"
 # motto = ""
 
 # footerBottomText = ""

@@ -36,6 +36,6 @@ draft: false
 
 如有任何建议或合作意向，欢迎通过邮箱联系我们：
 
-> news@example.com
+> christainervinpwxxd@gmail.com
 
 感谢您的关注与支持！
