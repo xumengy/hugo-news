@@ -1,47 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DRM on CAIKAN</title><link>https://xumengy.github.io/hugo-news/tags/drm/</link><description>Recent content in DRM on CAIKAN</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://xumengy.github.io/hugo-news/tags/drm/index.xml" rel="self" type="application/rss+xml"/><item><title>You will own nothing and be happy (Stop Killing Games)</title><link>https://xumengy.github.io/hugo-news/posts/you-will-own-nothing-and-be-happy-stop-killing-games--jeff-geerling/</link><pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate><guid>https://xumengy.github.io/hugo-news/posts/you-will-own-nothing-and-be-happy-stop-killing-games--jeff-geerling/</guid><description>&lt;blockquote>
-&lt;p>&lt;strong>tl;dr&lt;/strong>: 如果您是欧盟公民，请&lt;a href="https://eci.ec.europa.eu/045/public/#/screen/home">在此签署Stop Killing Games倡议&lt;/a>。如果您在英国，请&lt;a href="https://petition.parliament.uk/petitions/702074/">签署这份请愿书&lt;/a>。&lt;/p>&lt;/blockquote>
-&lt;p>一个月前，我的第二个关于自托管的视频被&lt;a href="https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated">下架了&lt;/a>。YouTube说这是&amp;quot;有害或危险的内容&amp;quot;。我对此提出上诉，但被拒绝了。&lt;/p>
-&lt;p>&lt;strong>幸运的是&lt;/strong>，我有足够的影响力获得了&lt;a href="https://x.com/TeamYouTube/status/1931119648675701161">第二次机会&lt;/a>。大多数内容创作者都没有这么幸运，关于Jellyfin和LibreELEC等工具的内容会逐渐被埋没。&lt;/p>
-&lt;p>但这不仅仅是自托管的问题。&lt;/p>
-&lt;blockquote>
-&lt;p>&lt;strong>注意&lt;/strong>: 这篇博客文章是我最新YouTube视频&lt;a href="https://www.youtube.com/watch?v=rAsgjKBkKMA">You will own NOTHING and be HAPPY (SKG)&lt;/a>的轻微编辑版本。&lt;/p>&lt;/blockquote>
-&lt;p>我最近写了一篇关于&lt;a href="https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud">购买洗碗机的挫折感&lt;/a>的博客文章。&lt;/p>
-&lt;p>我买了一台博世500系列，因为我们的旧洗碗机坏了，需要快速更换。所有在线评论都对它赞不绝口，消费者报告将其评为他们测试的所有洗碗机中第二好的！&lt;/p>
-&lt;p>但他们评论的是&lt;strong>2024年&lt;/strong>的型号。&lt;/p>
-&lt;p>&lt;strong>2025年&lt;/strong>的型号将洗涤周期隐藏在应用程序后面，并将按钮换成了令人沮丧的电容式触摸面板。该应用程序需要博世账户，&lt;strong>而且&lt;/strong>您必须将洗碗机连接到WiFi！&lt;/p>
-&lt;p>这很愚蠢。是的，我知道有本地访问的黑客方法，但这只有在您连接到博世并给他们数据后才有效。这太疯狂了。如此疯狂，以至于&lt;a href="https://xkcd.com/3109/">最近的XKCD漫画如此真实，让人痛苦&lt;/a>。&lt;/p>
-&lt;p>显然，自托管是被禁止的，使用我刚买的洗碗机也是被禁止的。即使是3D打印机硬件，这个曾经是所有权和维修权理想的堡垒，也&lt;a href="https://github.com/bambulab/BambuStudio/issues/6726">被锁定了&lt;/a>！&lt;/p>
-&lt;p>这让我想到了游戏。&lt;/p>
-&lt;p>&lt;img src="https://www.jeffgeerling.com/sites/default/files/images/apple-ii-6502_0.jpeg" alt="Apple II 6502 CPU">&lt;/p>
-&lt;p>我最近一直在玩复古计算，修复我父亲的第一台电脑，以及我成长过程中使用的一些电脑。&lt;/p>
-&lt;p>硬件很酷，当然，但让这个爱好上瘾的是在硬件上运行的&lt;strong>软件&lt;/strong>。&lt;/p>
-&lt;p>比如&lt;a href="https://cyan.com/games/myst/">Myst&lt;/a>。我的家人一起玩这个游戏&lt;strong>几个小时&lt;/strong>，解决所有谜题。&lt;/p>
-&lt;p>我有很多玩这个游戏的美好回忆。&lt;/p>
-&lt;p>如果我想的话？我可以把CD放进旧Mac里，再次玩它。我甚至可以在模拟器中运行它，比如&lt;a href="https://infinitemac.org/">Infinite Mac&lt;/a>！&lt;/p>
-&lt;p>我一直在镜像我小时候买的所有游戏，并把它们放在&lt;a href="https://github.com/geerlingguy/apple-pi">运行AFP的树莓派&lt;/a>上。这样我就可以随时以&lt;strong>任何方式&lt;/strong>玩它们。&lt;/p>
-&lt;p>我可以这样做，因为我&lt;strong>买了这些游戏&lt;/strong>。而且我今天&lt;strong>仍然买游戏&lt;/strong>。&lt;/p>
-&lt;p>但并非所有游戏都是一样的。越来越多的公司将游戏与愚蠢的DRM绑定，&lt;strong>需要&lt;/strong>互联网连接，或定期&amp;quot;打电话回家&amp;quot;，如果这些消失了——祝你好运玩游戏。&lt;/p>
-&lt;p>&lt;img src="https://www.jeffgeerling.com/sites/default/files/images/buy-ea-sports-link_0.jpg" alt="Buy EA Sports FC25">&lt;/p>
-&lt;p>制造东西的人应该为他们的工作获得报酬。我完全不支持盗版软件。但如果您点击一个写着&amp;quot;购买&amp;quot;的按钮，或者您去商店拿起一个装在盒子里的游戏，您应该能够玩它。&lt;/p>
-&lt;p>这不是很明显吗？&lt;/p>
-&lt;p>有些游戏有在线组件。我是否期望，例如，Bungie的多人服务器永远保持运行？不。&lt;/p>
-&lt;p>但我是否期望一些有进取心的社区成员站出来建立自己的自托管替代品？是的，如果这是一个足够受欢迎的游戏。&lt;/p>
-&lt;p>但如今有些游戏&lt;strong>不是&lt;/strong>这样设计的。它们被设计成基本上&lt;a href="https://delistedgames.com/watch-list/?_page=2a">在几年后过期&lt;/a>。&lt;/p>
-&lt;p>&lt;img src="https://www.jeffgeerling.com/sites/default/files/images/old-mac-games.jpg" alt="Old Mac games">&lt;/p>
-&lt;p>有些人实际上关心不仅仅是玩游戏，还&lt;strong>保存&lt;/strong>它们作为文化甚至&lt;strong>个人&lt;/strong>历史的一部分，就像我正在用所有这些旧Mac游戏做的那样。&lt;/p>
-&lt;p>我甚至不在乎他们是否给我发送代码，尽管像Id software这样的公司&lt;a href="https://github.com/id-Software">在过去付出了额外的努力&lt;/a>。我只关心游戏是以一种在公司停止关心它之后我仍然可以玩的方式构建的。&lt;/p>
-&lt;p>毕竟，我没有点击&amp;quot;现在租用&amp;quot;。我付了60美元，点击了一个写着&amp;quot;&lt;strong>购买&lt;/strong>&amp;ldquo;的按钮。&lt;/p>
-&lt;p>任何变成有效租赁的游戏都应该被要求告诉您：&lt;strong>它实际上不是出售的&lt;/strong>。这是一个有到期日的订阅。&lt;/p>
-&lt;p>我们有一个微小的机会来减缓这种疯狂。有一个叫做&lt;a href="https://www.stopkillinggames.com/">Stop Killing Games&lt;/a>的倡议。&lt;/p>
-&lt;p>如果您关心游戏、保存历史，或者只是保存&amp;quot;购买&amp;quot;这个词的含义，我鼓励您去那里&lt;a href="https://eci.ec.europa.eu/045/public/#/screen/home">签署欧盟请愿书&lt;/a>（假设您是欧盟公民）。&lt;/p>
-&lt;p>如果您在英国，有一个&lt;a href="https://petition.parliament.uk/petitions/702074/">单独的请愿书&lt;/a>。&lt;/p>
-&lt;p>我们终于看到软件中云一切的退缩，这始于推动自托管和学习裸机部署的反叛者。&lt;/p>
-&lt;p>也许我们也可以让游戏玩家免受几十年滥用定价策略的影响。&lt;/p>
-&lt;h2 id="延伸阅读">延伸阅读&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud">我不会把我的洗碗机连接到你的愚蠢云端&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated">自托管您自己的媒体被认为是有害的（更新）&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content">YouTube让我害怕；我需要为我的视频内容做RAID 1&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>&lt;em>原文作者：Jeff Geerling | 翻译和重新排版&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DRM on CAIKAN</title>
+    <link>http://localhost:1313/hugo-news/tags/drm/</link>
+    <description>Recent content in DRM on CAIKAN</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-news/tags/drm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>You will own nothing and be happy (Stop Killing Games)</title>
+      <link>http://localhost:1313/hugo-news/posts/you-will-own-nothing-and-be-happy-stop-killing-games--jeff-geerling/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/posts/you-will-own-nothing-and-be-happy-stop-killing-games--jeff-geerling/</guid>
+      <description>&lt;blockquote&gt;&#xA;    &lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt;: 如果您是欧盟公民，请&lt;a href=&#34;https://eci.ec.europa.eu/045/public/#/screen/home&#34; target=&#34;_blank&#34;&gt;在此签署Stop Killing Games倡议&lt;/a&gt;&#xA;。如果您在英国，请&lt;a href=&#34;https://petition.parliament.uk/petitions/702074/&#34; target=&#34;_blank&#34;&gt;签署这份请愿书&lt;/a&gt;&#xA;。&lt;/p&gt;&#xA;  &lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;一个月前，我的第二个关于自托管的视频被&lt;a href=&#34;https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated&#34; target=&#34;_blank&#34;&gt;下架了&lt;/a&gt;&#xA;。YouTube说这是&amp;quot;有害或危险的内容&amp;quot;。我对此提出上诉，但被拒绝了。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;幸运的是&lt;/strong&gt;，我有足够的影响力获得了&lt;a href=&#34;https://x.com/TeamYouTube/status/1931119648675701161&#34; target=&#34;_blank&#34;&gt;第二次机会&lt;/a&gt;&#xA;。大多数内容创作者都没有这么幸运，关于Jellyfin和LibreELEC等工具的内容会逐渐被埋没。&lt;/p&gt;&#xA;&lt;p&gt;但这不仅仅是自托管的问题。&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;  &lt;blockquote&gt;&#xA;    &lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;: 这篇博客文章是我最新YouTube视频&lt;a href=&#34;https://www.youtube.com/watch?v=rAsgjKBkKMA&#34; target=&#34;_blank&#34;&gt;You will own NOTHING and be HAPPY (SKG)&lt;/a&gt;&#xA;的轻微编辑版本。&lt;/p&gt;&#xA;  &lt;/blockquote&gt;&#xA;&#xA;&lt;p&gt;我最近写了一篇关于&lt;a href=&#34;https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud&#34; target=&#34;_blank&#34;&gt;购买洗碗机的挫折感&lt;/a&gt;&#xA;的博客文章。&lt;/p&gt;&#xA;&lt;p&gt;我买了一台博世500系列，因为我们的旧洗碗机坏了，需要快速更换。所有在线评论都对它赞不绝口，消费者报告将其评为他们测试的所有洗碗机中第二好的！&lt;/p&gt;&#xA;&lt;p&gt;但他们评论的是&lt;strong&gt;2024年&lt;/strong&gt;的型号。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025年&lt;/strong&gt;的型号将洗涤周期隐藏在应用程序后面，并将按钮换成了令人沮丧的电容式触摸面板。该应用程序需要博世账户，&lt;strong&gt;而且&lt;/strong&gt;您必须将洗碗机连接到WiFi！&lt;/p&gt;&#xA;&lt;p&gt;这很愚蠢。是的，我知道有本地访问的黑客方法，但这只有在您连接到博世并给他们数据后才有效。这太疯狂了。如此疯狂，以至于&lt;a href=&#34;https://xkcd.com/3109/&#34; target=&#34;_blank&#34;&gt;最近的XKCD漫画如此真实，让人痛苦&lt;/a&gt;&#xA;。&lt;/p&gt;&#xA;&lt;p&gt;显然，自托管是被禁止的，使用我刚买的洗碗机也是被禁止的。即使是3D打印机硬件，这个曾经是所有权和维修权理想的堡垒，也&lt;a href=&#34;https://github.com/bambulab/BambuStudio/issues/6726&#34; target=&#34;_blank&#34;&gt;被锁定了&lt;/a&gt;&#xA;！&lt;/p&gt;&#xA;&lt;p&gt;这让我想到了游戏。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.jeffgeerling.com/sites/default/files/images/apple-ii-6502_0.jpeg&#34; alt=&#34;Apple II 6502 CPU&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;我最近一直在玩复古计算，修复我父亲的第一台电脑，以及我成长过程中使用的一些电脑。&lt;/p&gt;&#xA;&lt;p&gt;硬件很酷，当然，但让这个爱好上瘾的是在硬件上运行的&lt;strong&gt;软件&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;比如&lt;a href=&#34;https://cyan.com/games/myst/&#34; target=&#34;_blank&#34;&gt;Myst&lt;/a&gt;&#xA;。我的家人一起玩这个游戏&lt;strong&gt;几个小时&lt;/strong&gt;，解决所有谜题。&lt;/p&gt;&#xA;&lt;p&gt;我有很多玩这个游戏的美好回忆。&lt;/p&gt;&#xA;&lt;p&gt;如果我想的话？我可以把CD放进旧Mac里，再次玩它。我甚至可以在模拟器中运行它，比如&lt;a href=&#34;https://infinitemac.org/&#34; target=&#34;_blank&#34;&gt;Infinite Mac&lt;/a&gt;&#xA;！&lt;/p&gt;&#xA;&lt;p&gt;我一直在镜像我小时候买的所有游戏，并把它们放在&lt;a href=&#34;https://github.com/geerlingguy/apple-pi&#34; target=&#34;_blank&#34;&gt;运行AFP的树莓派&lt;/a&gt;&#xA;上。这样我就可以随时以&lt;strong&gt;任何方式&lt;/strong&gt;玩它们。&lt;/p&gt;&#xA;&lt;p&gt;我可以这样做，因为我&lt;strong&gt;买了这些游戏&lt;/strong&gt;。而且我今天&lt;strong&gt;仍然买游戏&lt;/strong&gt;。&lt;/p&gt;&#xA;&lt;p&gt;但并非所有游戏都是一样的。越来越多的公司将游戏与愚蠢的DRM绑定，&lt;strong&gt;需要&lt;/strong&gt;互联网连接，或定期&amp;quot;打电话回家&amp;quot;，如果这些消失了——祝你好运玩游戏。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.jeffgeerling.com/sites/default/files/images/buy-ea-sports-link_0.jpg&#34; alt=&#34;Buy EA Sports FC25&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;制造东西的人应该为他们的工作获得报酬。我完全不支持盗版软件。但如果您点击一个写着&amp;quot;购买&amp;quot;的按钮，或者您去商店拿起一个装在盒子里的游戏，您应该能够玩它。&lt;/p&gt;&#xA;&lt;p&gt;这不是很明显吗？&lt;/p&gt;&#xA;&lt;p&gt;有些游戏有在线组件。我是否期望，例如，Bungie的多人服务器永远保持运行？不。&lt;/p&gt;&#xA;&lt;p&gt;但我是否期望一些有进取心的社区成员站出来建立自己的自托管替代品？是的，如果这是一个足够受欢迎的游戏。&lt;/p&gt;&#xA;&lt;p&gt;但如今有些游戏&lt;strong&gt;不是&lt;/strong&gt;这样设计的。它们被设计成基本上&lt;a href=&#34;https://delistedgames.com/watch-list/?_page=2a&#34; target=&#34;_blank&#34;&gt;在几年后过期&lt;/a&gt;&#xA;。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.jeffgeerling.com/sites/default/files/images/old-mac-games.jpg&#34; alt=&#34;Old Mac games&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;有些人实际上关心不仅仅是玩游戏，还&lt;strong&gt;保存&lt;/strong&gt;它们作为文化甚至&lt;strong&gt;个人&lt;/strong&gt;历史的一部分，就像我正在用所有这些旧Mac游戏做的那样。&lt;/p&gt;&#xA;&lt;p&gt;我甚至不在乎他们是否给我发送代码，尽管像Id software这样的公司&lt;a href=&#34;https://github.com/id-Software&#34; target=&#34;_blank&#34;&gt;在过去付出了额外的努力&lt;/a&gt;&#xA;。我只关心游戏是以一种在公司停止关心它之后我仍然可以玩的方式构建的。&lt;/p&gt;&#xA;&lt;p&gt;毕竟，我没有点击&amp;quot;现在租用&amp;quot;。我付了60美元，点击了一个写着&amp;quot;&lt;strong&gt;购买&lt;/strong&gt;&amp;ldquo;的按钮。&lt;/p&gt;&#xA;&lt;p&gt;任何变成有效租赁的游戏都应该被要求告诉您：&lt;strong&gt;它实际上不是出售的&lt;/strong&gt;。这是一个有到期日的订阅。&lt;/p&gt;&#xA;&lt;p&gt;我们有一个微小的机会来减缓这种疯狂。有一个叫做&lt;a href=&#34;https://www.stopkillinggames.com/&#34; target=&#34;_blank&#34;&gt;Stop Killing Games&lt;/a&gt;&#xA;的倡议。&lt;/p&gt;&#xA;&lt;p&gt;如果您关心游戏、保存历史，或者只是保存&amp;quot;购买&amp;quot;这个词的含义，我鼓励您去那里&lt;a href=&#34;https://eci.ec.europa.eu/045/public/#/screen/home&#34; target=&#34;_blank&#34;&gt;签署欧盟请愿书&lt;/a&gt;&#xA;（假设您是欧盟公民）。&lt;/p&gt;&#xA;&lt;p&gt;如果您在英国，有一个&lt;a href=&#34;https://petition.parliament.uk/petitions/702074/&#34; target=&#34;_blank&#34;&gt;单独的请愿书&lt;/a&gt;&#xA;。&lt;/p&gt;&#xA;&lt;p&gt;我们终于看到软件中云一切的退缩，这始于推动自托管和学习裸机部署的反叛者。&lt;/p&gt;&#xA;&lt;p&gt;也许我们也可以让游戏玩家免受几十年滥用定价策略的影响。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
