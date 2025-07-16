@@ -1,7 +1,7 @@
 baseurl = "https://xumengy.github.io/hugo-news/"
 defaultContentLanguage = "en"
 languageCode = "en"
-title = "CAIKAN"
+title = "葡萄之家"
 theme = "dream"
 
 # [services]
@@ -16,13 +16,13 @@ theme = "dream"
 lightTheme = "emerald"
 darkTheme = "forest"
 
-# backgroundImage = "img/global-background.jpg"
+# backgroundImage = "images/global-background.jpg"
 # backgroundImageDark = ""
 
 author = "Dream"
 # description = ""
-avatar = "images/avatar.jpeg"
-headerTitle = "CAIKAN"
+avatar = "images/avatar.jpg"
+headerTitle = "葡萄之家"
 # motto = ""
 
 # footerBottomText = ""
@@ -40,7 +40,7 @@ headerTitle = "CAIKAN"
 
 # email = ""
 
-siteStartYear = 2016
+siteStartYear = ""
 
 favicon = "/images/avatar.jpeg"
 

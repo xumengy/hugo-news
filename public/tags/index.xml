@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 葡萄之家</title>
+    <link>http://localhost:1313/hugo-news/tags/</link>
+    <description>Recent content in Tags on 葡萄之家</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-news/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Digital-Rights</title>
+      <link>http://localhost:1313/hugo-news/tags/digital-rights/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/digital-rights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DRM</title>
+      <link>http://localhost:1313/hugo-news/tags/drm/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/drm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Games</title>
+      <link>http://localhost:1313/hugo-news/tags/games/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/games/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ownership</title>
+      <link>http://localhost:1313/hugo-news/tags/ownership/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/ownership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro-Gaming</title>
+      <link>http://localhost:1313/hugo-news/tags/retro-gaming/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/retro-gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bluetooth</title>
+      <link>http://localhost:1313/hugo-news/tags/bluetooth/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/bluetooth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Source</title>
+      <link>http://localhost:1313/hugo-news/tags/open-source/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/hugo-news/tags/technology/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-news/tags/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
