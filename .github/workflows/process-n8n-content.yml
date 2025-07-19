@@ -12,7 +12,12 @@ on:
         description: 'Process all raw content files'
         required: false
         default: 'false'
-
+        
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+  
 jobs:
   process-content:
     runs-on: ubuntu-latest
